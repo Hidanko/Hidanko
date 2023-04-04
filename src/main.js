@@ -4,6 +4,9 @@ import './assets/main.css'
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap"
 import 'bootstrap-vue/dist/bootstrap-vue-icons.min.css'
+import router from '../router/index'
 
-let ap = createApp(App);
-ap.mount('#app')
+createApp(App)
+    .use(router)
+    .mount('#app')
+

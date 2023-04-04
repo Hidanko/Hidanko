@@ -7,9 +7,9 @@
     <b-navbar-brand tag="h1" class="mb-0 title">Gustavo Nemeth </b-navbar-brand>
   </b-navbar>
     <h4 style="padding-left: 20px">
-      <img src="../../../public/svg/388-mail.svg" width="20" height="20"> gustavomnemeth@gmail.com |
-      <a href="https://www.linkedin.com/in/gustavonemeth/" target="_blank"><img src="../../../public/svg/458-linkedin.svg" width="20" height="20"> gustavonemeth</a>  |
-      <a href="https://github.com/gustavo-nemeth" target="_blank"><img src="../../../public/svg/433-github.svg" width="20" height="20"> gustavo-nemeth</a>
+      <img src="/svg/388-mail.svg" width="20" height="20"> gustavomnemeth@gmail.com |
+      <a href="https://www.linkedin.com/in/gustavonemeth/" target="_blank"><img src="/svg/458-linkedin.svg" width="20" height="20"> gustavonemeth</a>  |
+      <a href="https://github.com/gustavo-nemeth" target="_blank"><img src="/svg/433-github.svg" width="20" height="20"> gustavo-nemeth</a>
     </h4>
     <b-icon icon="linkedin"/>
   </header>

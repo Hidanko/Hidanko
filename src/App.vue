@@ -1,13 +1,15 @@
 <script setup>
 import Header from "@/components/header/Header.vue";
 import Main from "@/components/Main.vue"
+import Footer from "@/components/footer/Footer.vue";
 </script>
 
 <template>
+
   <div class="main-div">
   <Header/>
-  <br/>
   <Main/>
+  <Footer/>
   </div>
 </template>
 
